@@ -14,4 +14,9 @@ Here is a video demonstration:
 
 Here is a video demonstration:    
 
-[![Watch the video](https://img.youtube.com/vi/yIU9igNmMvU/0.jpg)](https://www.youtube.com/watch?v=yIU9igNmMvU)
+[![Watch the video](https://img.youtube.com/vi/yIU9igNmMvU/0.jpg)](https://www.youtube.com/watch?v=yIU9igNmMvU)    
+
+    
+![problem](https://github.com/orynbay21/Google-Apps-Scripts-Automatization/assets/98757036/0dea19f2-3312-4350-b185-96d609166f63)
+![solution](https://github.com/orynbay21/Google-Apps-Scripts-Automatization/assets/98757036/f42814a8-dabd-436a-a0cc-5f33889b4d0f)
+![opportunity](https://github.com/orynbay21/Google-Apps-Scripts-Automatization/assets/98757036/4da28829-4455-4054-9b39-38856455688f)
